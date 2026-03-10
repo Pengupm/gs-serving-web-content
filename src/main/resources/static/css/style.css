@@ -10,7 +10,7 @@ header {
 }
 
 section {
-    width: 79%;
+    width: 80%;
     float: left;
     overflow: auto;
     padding-bottom: 60px;
@@ -25,6 +25,6 @@ footer {
     padding:5px 0px;
     clear: both;
     background: #d7e0e9;
-    text-align: left;
-    color: red;
+    text-align: center;
+    color: black;
 }
